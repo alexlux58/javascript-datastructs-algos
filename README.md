@@ -30,16 +30,16 @@ The repository contains the following:
 
 Clone the repository and navigate to the project directory:
 
-\`\`\`bash
+```bash
 git clone https://github.com/alexlux58/javascript-datastructs-algos.git
 cd javascript-datastructs-algos
-\`\`\`
+```
 
 Install the required packages:
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ---
 
@@ -49,25 +49,25 @@ npm install
 
 Run the server:
 
-\`\`\`bash
+```bash
 node array-from-scratch/index.js
-\`\`\`
+```
 
 ### Merge Sorted Arrays
 
 Run the script:
 
-\`\`\`bash
+```bash
 node mergeSortedArrays.js
-\`\`\`
+```
 
 ### Reverse String
 
 Run the script:
 
-\`\`\`bash
+```bash
 node reverseString.js
-\`\`\`
+```
 
 ---
 
